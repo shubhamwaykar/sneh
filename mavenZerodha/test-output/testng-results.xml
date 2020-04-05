@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="90835" started-at="2020-03-31T12:44:09 IST" finished-at="2020-03-31T12:45:39 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="90835" started-at="2020-03-31T12:44:09 IST" finished-at="2020-03-31T12:45:39 IST">
+      <class name="testpackmavenZerodha.Testclass">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testpackmavenZerodha.Testclass@1e6d1014]" name="beforeClass" is-config="true" duration-ms="14020" started-at="2020-03-31T12:44:09 IST" finished-at="2020-03-31T12:44:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="screenshot()[pri:0, instance:testpackmavenZerodha.Testclass@1e6d1014]" name="screenshot" is-config="true" duration-ms="766" started-at="2020-03-31T12:44:23 IST" finished-at="2020-03-31T12:44:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method status="PASS" signature="property()[pri:0, instance:testpackmavenZerodha.Testclass@1e6d1014]" name="property" duration-ms="72548" started-at="2020-03-31T12:44:23 IST" finished-at="2020-03-31T12:45:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- property -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testpackmavenZerodha.Testclass@1e6d1014]" name="afterMethod" is-config="true" duration-ms="3476" started-at="2020-03-31T12:45:36 IST" finished-at="2020-03-31T12:45:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testpackmavenZerodha.Testclass@1e6d1014]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-03-31T12:45:39 IST" finished-at="2020-03-31T12:45:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testpackmavenZerodha.Testclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
